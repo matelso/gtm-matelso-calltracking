@@ -1,0 +1,5 @@
+homepage: "https://www.matelso.com"
+documentation: "https://lp.matelso.com/tagmanager-doc"
+versions:
+  - sha: acbaa27490168c9537ed3a35c8fdc6cffec5f4bb
+    changeNotes: Initial release.
