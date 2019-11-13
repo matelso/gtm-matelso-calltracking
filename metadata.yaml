@@ -1,5 +1,11 @@
 homepage: "https://www.matelso.com"
 documentation: "https://lp.matelso.com/tagmanager-doc"
 versions:
+# Latest version
+  - sha: 33516d2c26d5f82d1b117677fe375406c66c6df9
+    changeNotes: Update Readme File.
+# Older versions
+  - sha: 183a4c06d2afc3277cf534315404a083e49c9284
+    changeNotes: Initial Upload.
   - sha: acbaa27490168c9537ed3a35c8fdc6cffec5f4bb
-    changeNotes: Initial release.
+    changeNotes: Initial commit.
