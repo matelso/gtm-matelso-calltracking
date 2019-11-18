@@ -2,9 +2,17 @@ homepage: "https://www.matelso.com"
 documentation: "https://lp.matelso.com/tagmanager-doc"
 versions:
 # Latest version
-  - sha: 55e34cdfffe006e93ce48764444bbb8b13d64529
-    changeNotes: Update Rename File.
+  - sha: ee3f2ed27ddde18fa7e98a99e436c3cc94e42542
+    changeNotes: --.
 # Older versions
+  - sha: 849dc0d476d7c36e675a305ffead837223a592bf
+    changeNotes: Update Versionnumber.
+  - sha: 55e34cdfffe006e93ce48764444bbb8b13d64529
+    changeNotes: Delete wrong filename.
+  - sha: 67cc974268fcd3c2ee50d128542adf7dc163bd24
+    changeNotes: wrong Filename bugfix.
+  - sha: 14bfda43511557ecd6af5879f97abd59514de024
+    changeNotes: Update metadata.yaml.
   - sha: 33516d2c26d5f82d1b117677fe375406c66c6df9
     changeNotes: Update Readme File.
   - sha: 183a4c06d2afc3277cf534315404a083e49c9284
