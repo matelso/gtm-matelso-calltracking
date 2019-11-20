@@ -2,9 +2,13 @@ homepage: "https://www.matelso.com"
 documentation: "https://lp.matelso.com/tagmanager-doc"
 versions:
 # Latest version
-  - sha: ee3f2ed27ddde18fa7e98a99e436c3cc94e42542
-    changeNotes: --.
+  - sha: 406edef781c8f9873fd8929ed56b081ea1e17ad1
+    changeNotes: -- minor fix -- Library URL.
 # Older versions
+  - sha: a7ef120857a7a100a782e0551ee645119bc7c3b9
+    changeNotes: Update metadata.yaml.
+  - sha: ee3f2ed27ddde18fa7e98a99e436c3cc94e42542
+    changeNotes: -- minor fix.
   - sha: 849dc0d476d7c36e675a305ffead837223a592bf
     changeNotes: Update Versionnumber.
   - sha: 55e34cdfffe006e93ce48764444bbb8b13d64529

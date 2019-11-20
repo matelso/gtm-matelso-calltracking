@@ -35,7 +35,7 @@ ___TEMPLATE_PARAMETERS___
     "name": "LibraryURL",
     "displayName": "Library URL",
     "simpleValueType": true,
-    "defaultValue": "//rns.matelso.de/webtracking/4/"
+    "defaultValue": "https://rns.matelso.de/webtracking/4/"
   }
 ]
 
