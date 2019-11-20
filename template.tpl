@@ -51,7 +51,7 @@ if(copyFromWindow(CallTrackingObject)) {
   data.gtmOnFailure();
 }
 
-injectScript(data.LibraryUrl, data.gtmOnSuccess, data.gtmOnFailure, CallTrackingObject);
+injectScript(data.LibraryURL, data.gtmOnSuccess, data.gtmOnFailure, CallTrackingObject);
 
 
 // data.gtmOnSuccess aufrufen, wenn das Tag fertig ist.
